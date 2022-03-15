@@ -4,7 +4,7 @@
 Bash script to setup GUI for AWS SIFT and access SIFT workstation using windows Remote Desktop Protocol.
 
 # Usage
-bash <(curl -s https://raw.githubusercontent.com/)
+bash <(curl -s https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/aws_sift_gui.sh)
 
 # Compatibility
 This script supports the following Amazon Machine Image (AMI)
