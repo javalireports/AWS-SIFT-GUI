@@ -19,11 +19,11 @@ echo -e "\n
 fi
 echo -e "\n
 #########################################################################################
-# Author: Arvind Javali                                                                 # 
+# Author: Arvind Javali                                                                 #
 # Description: Bash script to setup GUI for AWS SIFT and access SIFT workstation using  #
-# Remote Desktop Protocol. 	    							# 
-# Tested against Debian based distributions like AWS SIFT AMI [ami-0b9ef98f6dbcfe23d]	#
-# Version: 1.00										#        
+# Remote Desktop Protocol.                                                              #
+# Tested against Debian based distributions like AWS SIFT AMI [ami-0b9ef98f6dbcfe23d]   #
+# Version: 1.00                                                                         #
 #########################################################################################
 \n"
 
