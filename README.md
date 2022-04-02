@@ -3,7 +3,7 @@
 # AWS SIFT GUI
 Bash script to setup GUI for AWS SIFT and access SIFT workstation using windows Remote Desktop Protocol. The SIFT Workstation is a collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
-![aws_sift_gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/bf09b22afe24dfcdd38ea92daac86695f1ad8b16/Images/aws_sift_gui.png)
+![aws_sift_gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/aws_sift_gui.png)
 ![aws sift gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/selection.PNG)
 ![aws sift gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/success.PNG)
 ![aws sift gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/rdp-success.PNG)
