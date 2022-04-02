@@ -3,7 +3,7 @@
 # AWS SIFT GUI
 Bash script to setup GUI for AWS SIFT and access SIFT workstation using windows Remote Desktop Protocol. The SIFT Workstation is a collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
-![aws_sift_gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/bf09b22afe24dfcdd38ea92daac86695f1ad8b16/Images/aws_sift_gui.PNG)
+![aws_sift_gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/bf09b22afe24dfcdd38ea92daac86695f1ad8b16/Images/aws_sift_gui.png)
 ![aws sift gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/selection.PNG)
 ![aws sift gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/success.PNG)
 ![aws sift gui.sh](https://raw.githubusercontent.com/javalireports/AWS-SIFT-GUI/main/Images/rdp-success.PNG)
@@ -18,9 +18,9 @@ Note: incase the script throw a syntax error then manually copy the content of t
 # Compatibility
 This script supports the following Amazon Machine Image (AMI)
 
-|Amazon Machine Image     |Support| AMI Name        |
-|--------                 |---    |---              |
-| ami-0b9ef98f6dbcfe23d   |✅     |SIFT Workstation |
+|Amazon Machine Image   | AMI Name        | Support|
+|--------               |---              |---     |
+| ami-0b9ef98f6dbcfe23d |SIFT Workstation | ✅    |
 
 # Structure
 The script will show a dialogbox (whiptail), where you can select the software(s) you want to install.
